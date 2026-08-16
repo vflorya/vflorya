@@ -12,6 +12,7 @@
 , <img width="98" height="28" alt="image" src="https://github.com/user-attachments/assets/6f69d3ac-ac32-4ddc-8ef9-66d435d2b191" />
 , <img width="98" height="28" alt="image" src="https://github.com/user-attachments/assets/f61c8b50-94e3-4d25-9981-6d1c73e2a38f" />
 ,<img width="90" height="28" alt="image" src="https://github.com/user-attachments/assets/db0f5354-0fbe-4c04-b408-a0faf91ef7d0" />
+, ![Seaborn](https://img.shields.io/badge/Seaborn-444876?style=for-the-badge&logo=seaborn&logoColor=white)
 , ![Yandex DataLens](https://img.shields.io/badge/Yandex%20DataLens-FF0000?style=for-the-badge&logo=yandex&logoColor=white)
 , <img width="152" height="28" alt="image" src="https://github.com/user-attachments/assets/900573f6-5fe8-48b8-a797-147dc3fb89e2" />
 
