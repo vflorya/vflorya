@@ -1,16 +1,18 @@
-## Hi there 👋
+## Привет! Меня зовут Виктория 👋
 
-<!--
-**vflorya/vflorya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<Всю свою карьеру я работаю с числами, отчётами и бюджетами — сначала в строительстве, затем в госсекторе. За 13 лет научилась видеть за цифрами реальные процессы и принимать на их основе взвешенные решения.
+В 2013 г. окончила МГСУ по специальности Экспертиза и управление недвижимостью. 
+В 2026 году я осознанно перешла в аналитику данных, пройдя курс в Яндекс.Практикуме, чтобы использовать свой опыт в новой сфере.
 
-Here are some ideas to get you started:
+Мой стек: <img width="113" height="28" alt="image" src="https://github.com/user-attachments/assets/d1d4df8f-1f7d-4133-a0a6-2adbc9e5c4a0" />
+SQL, Python (Pandas, NumPy, Seaborn), DataLens, Google Таблицы. 
+В этом репозитории собраны проекты, где я применяю эти инструменты к реальным задачам: от очистки данных до построения интерактивных дашбордов и проверки гипотез.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Ответственная, быстро учусь, люблю порядок и системность. Ищу команду, где мои навыки будут полезны, а я смогу развиваться как аналитик.
+
+🌱 Сейчас активно изучаю A/B-тестирование и углубляю статистику.
+🔍 Открыта к вакансиям  Data Analyst / Аналитик данных
+
+📫 Контакты: [vittoria1802@gmail.com] | [https://www.linkedin.com/me?trk=p_mwlite_feed-secondary_nav]
+
 -->
