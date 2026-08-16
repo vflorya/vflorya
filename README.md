@@ -18,8 +18,6 @@ Seaborn), DataLens,
 🌱 Сейчас активно изучаю A/B-тестирование и углубляю статистику.
 🔍 Открыта к вакансиям  Data Analyst / Аналитик данных
 
-📫 Контакты: <img width="87" height="28" alt="image" src="https://github.com/user-attachments/assets/17299838-ed7e-46e2-a235-d5151a6a3f3e" />
-[vittoria1802@gmail.com] | 
-[https://www.linkedin.com/me?trk=p_mwlite_feed-secondary_nav]
+📫 Контакты: [vittoria1802@gmail.com] | [https://www.linkedin.com/me?trk=p_mwlite_feed-secondary_nav]
 
 -->
