@@ -1,18 +1,13 @@
 ## Привет! Меня зовут Виктория 👋
-## Data Analyst / Аналитик данных
+## 🔍 Открыта к вакансиям  Data Analyst / Аналитик данных
 
 Имею 13-летний опыт в строительстве и госсекторе, где всегда работала с большими массивами данных, отчетами и бюджетами.
-🌱 Мое образование: 
-• 2013 — МГСУ — Экспертиза и управление недвижимостью (ВПО)   
-• 2016 — Учебный центр «Специалист» — Сметное дело (курсы)   
-• 2022 — НИУ МГСУ — Промышленное и гражданское строительство (ДПО)   
+🎓 Мое образование: 
+ ![Moscow State University of Civil Engineering](https://img.shields.io/badge/МГСУ-Экспертиза%20и%20управление%20недвижимостью-004F9F?style=for-the-badge)  
+ ![Advanced Training](https://img.shields.io/badge/МГСУ-ДПО-Промышленное%20и%20гражданское%20строительство-008000?style=for-the-badge)
+ ![Estimating](https://img.shields.io/badge/Курсы-Сметное%20дело-FF8C00?style=for-the-badge)
+ ![Yandex Practicum](https://img.shields.io/badge/Яндекс.Практикум-Аналитик%20данных-FF0000?style=for-the-badge)
 • В 2026 году я осознанно перешла в аналитику данных, пройдя курс в Яндекс.Практикуме, чтобы использовать свой опыт в новой сфере.  
-## 🎓 Образование
-
-![Moscow State University of Civil Engineering](https://img.shields.io/badge/МГСУ-Экспертиза%20и%20управление%20недвижимостью-004F9F?style=for-the-badge)
-![Yandex Practicum](https://img.shields.io/badge/Яндекс.Практикум-Аналитик%20данных-FF0000?style=for-the-badge)
-![Advanced Training](https://img.shields.io/badge/ДПО-Промышленное%20и%20гражданское%20строительство-008000?style=for-the-badge)
-![Estimating](https://img.shields.io/badge/Курсы-Сметное%20дело-FF8C00?style=for-the-badge)
 
 Мой стек: <img width="113" height="28" alt="image" src="https://github.com/user-attachments/assets/d1d4df8f-1f7d-4133-a0a6-2adbc9e5c4a0" />
 , <img width="98" height="28" alt="image" src="https://github.com/user-attachments/assets/6f69d3ac-ac32-4ddc-8ef9-66d435d2b191" />
@@ -27,7 +22,6 @@
 Ответственная, быстро учусь, люблю порядок и системность. Ищу команду, где мои навыки будут полезны, а я смогу развиваться как аналитик.
 
 🌱 Сейчас активно изучаю A/B-тестирование и углубляю статистику.  
-🔍 Открыта к вакансиям  Data Analyst / Аналитик данных
 
 📫 Контакты: [vittoria1802@gmail.com] | [https://www.linkedin.com/me?trk=p_mwlite_feed-secondary_nav]
 
