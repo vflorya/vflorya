@@ -9,10 +9,10 @@
 • В 2026 году я осознанно перешла в аналитику данных, пройдя курс в Яндекс.Практикуме, чтобы использовать свой опыт в новой сфере.  
 ## 🎓 Образование
 
-![Education](https://img.shields.io/badge/Образование-Высшее-005B9F?style=for-the-badge)
 ![Moscow State University of Civil Engineering](https://img.shields.io/badge/МГСУ-Экспертиза%20и%20управление%20недвижимостью-004F9F?style=for-the-badge)
 ![Yandex Practicum](https://img.shields.io/badge/Яндекс.Практикум-Аналитик%20данных-FF0000?style=for-the-badge)
 ![Advanced Training](https://img.shields.io/badge/ДПО-Промышленное%20и%20гражданское%20строительство-008000?style=for-the-badge)
+![Estimating](https://img.shields.io/badge/Курсы-Сметное%20дело-FF8C00?style=for-the-badge)
 
 Мой стек: <img width="113" height="28" alt="image" src="https://github.com/user-attachments/assets/d1d4df8f-1f7d-4133-a0a6-2adbc9e5c4a0" />
 , <img width="98" height="28" alt="image" src="https://github.com/user-attachments/assets/6f69d3ac-ac32-4ddc-8ef9-66d435d2b191" />
