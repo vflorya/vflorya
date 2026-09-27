@@ -15,6 +15,6 @@
 , ![Seaborn](https://img.shields.io/badge/Seaborn-444876?style=for-the-badge&logo=seaborn&logoColor=white)
 , ![Yandex DataLens](https://img.shields.io/badge/Yandex%20DataLens-FF0000?style=for-the-badge&logo=yandex&logoColor=white)
 , <img width="152" height="28" alt="image" src="https://github.com/user-attachments/assets/900573f6-5fe8-48b8-a797-147dc3fb89e2" />
-
+, ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 📫 Контакты: [vittoria1802@gmail.com] | [https://www.linkedin.com/me?trk=p_mwlite_feed-secondary_nav]
 
