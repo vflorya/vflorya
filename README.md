@@ -1,10 +1,19 @@
-## Привет! Меня зовут Виктория 👋
-## 🔍 Data Analyst / Аналитик данных
+## Флоря Виктория
+🔍 Data Analyst / Аналитик данных, Москва
 
 Имею 13-летний опыт в строительстве и госсекторе, где всегда работала с большими массивами данных, отчётами и бюджетами, в том числе в части реализации инвестиционных проектов. 
 Я окончила МГСУ по специальности «Экспертиза и управление недвижимостью», дополнительно прошла профессиональную переподготовку по ПГС и изучила сметное дело. Это дает мне глубокое понимание того, как устроены инвестиционно-строительные проекты.
 В 2026 году целенаправленно прошла переподготовку на аналитика данных, чтобы систематизировать свои навыки и освоить современный стек (SQL, Python, BI).
 
+Мои проекты:
+https://docs.google.com/spreadsheets/d/1Q58Qw1Q060-uwRbgAGoMjwLm4Qede6Z3ql5vg_Buo6A/edit?usp=sharing
+https://datalens.ru/workbooks/tkhuxxr1pnj2d
+https://datalens.ru/0tbqxqcyx4lck-dashbord-dlya-agentstva-nedvizhimosti
+https://github.com/vflorya/Practicum_projects/blob/main/3.%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20%D0%BE%D0%B1%D1%8A%D1%8F%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B9%20%D0%BE%20%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B5%20%D0%B6%D0%B8%D0%BB%D0%BE%D0%B9%20%D0%BD%D0%B5%D0%B4%D0%B2%D0%B8%D0%B6%D0%B8%D0%BC%D0%BE%D1%81%D1%82%D0%B8.docx
+https://github.com/vflorya/Practicum_projects/blob/main/4.%D0%9F%D1%80%D0%B5%D0%B4%D0%BE%D0%B1%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B0%20%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85%20%D0%BE%D0%BD%D0%BB%D0%B0%D0%B9%D0%BD%E2%80%91%D0%B8%D0%B3%D1%80%D1%8B%20%D0%B2%20Python.ipynb
+https://github.com/vflorya/Practicum_projects/blob/main/5.%20%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20%D0%B0%D0%BA%D1%82%D0%B8%D0%B2%D0%BD%D0%BE%D1%81%D1%82%D0%B8%20%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D0%B5%D0%B9%20%D0%AF%D0%BD%D0%B4%D0%B5%D0%BA%D1%81%20%D0%9A%D0%BD%D0%B8%D0%B3.ipynb
+https://datalens.ru/at2ecsynx1jit-yandeks-afisha-analitika-biznes-pokazateley
+https://github.com/vflorya/Practicum_projects/blob/main/6.%20%D0%98%D1%81%D0%BB%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D0%BA%D0%B8%D0%B9%20%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20%D1%81%D0%B5%D1%80%D0%B2%D0%B8%D1%81%D0%B0%20%D0%AF%D0%BD%D0%B4%D0%B5%D0%BA%D1%81%20%D0%90%D1%84%D0%B8%D1%88%D0%B0%20Pyton.ipynb
 
 
 Мой стек:
